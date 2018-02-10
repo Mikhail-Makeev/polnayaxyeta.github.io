@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+* {
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+}
+.cbalink {
+	display: none;
+}
+html {
+	cursor: url(cursor.png), url(cursor.png), auto;
+}
